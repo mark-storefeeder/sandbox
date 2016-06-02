@@ -1,1 +1,1 @@
-*.sql		text
+*.sql		diff=astextplain
